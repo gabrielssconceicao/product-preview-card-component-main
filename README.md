@@ -25,11 +25,13 @@ Want some support on the challenge? [Join our Slack community](https://www.front
 
 ### Screenshot
 
-![](./screenshot/desktop-view.png)
+![Desktop View](./screenshot/desktop-view.png)
+
+![Mobile View](./screenshot/mobile-view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-product-preview-card-component-using-css-tG5fWGUdre)
 - Live Site URL: [Add live site URL here](https://gabrielssconceicao.github.io/product-preview-card-component-main/)
 
 ## Author
